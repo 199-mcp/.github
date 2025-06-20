@@ -8,7 +8,7 @@
 
 ## Our Portfolio
 
-### 🤖 **AI Collaboration & Intelligence**
+### 🤖 **Intelligence**
 - [`mcp-zen`](https://github.com/199-mcp/mcp-zen) — Multi-model AI orchestration (Gemini 2.0 Pro, OpenAI, OpenRouter, Ollama)
 - [`mcp-better-thinking`](https://github.com/199-mcp/mcp-better-thinking) — Enhanced reasoning and analysis frameworks
 - [`mcp-occams-razor`](https://github.com/199-mcp/mcp-occams-razor) — Decision optimization tools
@@ -17,20 +17,20 @@
 - [`mcp-autostarter`](https://github.com/199-mcp/mcp-autostarter) — Seamless MCP plugin reloading
 - [`mcp-wait-timer`](https://github.com/199-mcp/mcp-wait-timer) — Timing and scheduling utilities
 
-### 🏢 **Enterprise Productivity**
+### 🏢 **Productivity**
 - [`mcp-google`](https://github.com/199-mcp/mcp-google) — Full Google Workspace suite (Calendar, Contacts, Gmail)
 - [`mcp-limitless`](https://github.com/199-mcp/mcp-limitless) — Meeting intelligence with Speech Vitality Index™
 - [`mcp-send-email`](https://github.com/199-mcp/mcp-send-email) — Enterprise email automation via Resend
 - [`mcp-fresha`](https://github.com/199-mcp/mcp-fresha) — Business data analytics via Snowflake
 - [`mcp-uber`](https://github.com/199-mcp/mcp-uber) — Transportation automation
 
-### 🎨 **Content Generation**
+### 🎨 **Content**
 - [`mcp-kling`](https://github.com/199-mcp/mcp-kling) — Complete Kling AI video generation suite (13+ tools)
 - [`mcp-openai-image`](https://github.com/199-mcp/mcp-openai-image) — DALL-E image generation and editing
 - [`mcp-youtube`](https://github.com/199-mcp/mcp-youtube) — YouTube API management and transcripts
 - [`mcp-comfyui`](https://github.com/199-mcp/mcp-comfyui) — Local ComfyUI integration
 
-### 🔬 **Research & Analytics**
+### 🔬 **Research**
 - [`mcp-phenoage-clock`](https://github.com/199-mcp/mcp-phenoage-clock) — Biological age calculation (Morgan Levine algorithm)
 - [`mcp-oura`](https://github.com/199-mcp/mcp-oura) — Health data integration
 - [`mcp-exa`](https://github.com/199-mcp/mcp-exa) — Advanced web search API
